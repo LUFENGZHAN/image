@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/569.b55d6b51.chunk.js","mappings":"2KAEe,SAASA,IACtB,OACE,qCAEH,C","sources":["pages/GameCenter/HomePage.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function HomePage() {\r\n  return (\r\n    <div>HomePage</div>\r\n  )\r\n}\r\n"],"names":["HomePage"],"sourceRoot":""}
